@@ -1,0 +1,4 @@
+build/
+courses.tsv
+*.tmp
+__pycache__/
